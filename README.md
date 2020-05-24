@@ -1,6 +1,7 @@
-# Parcel JS starter
+# My Web Development Starter
 
-A small project starter kit.
+This is my website development starter for faster development and speeding across the hassle of creating and configuring a new website project 
+(Note: This starter doesn't include any framework like React, Vue, etc and also using the [7-1 architecture pattern](http://sass-guidelin.es/#architecture) and sticking to [Sass Guidelines](http://sass-guidelin.es/) writing conventions.)
 
 - NPM scripts
 - Module bundling with [Parcel](https://parceljs.org/)
